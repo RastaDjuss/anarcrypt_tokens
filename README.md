@@ -1,8 +1,8 @@
-![anarcoin](https://github.com/user-attachments/assets/93afa4b8-865d-4114-8454-69e9cabc6125)
+![anarcoin]
 
 # anarcoin 
 
-![anarcoin-dextools-banner](https://github.com/user-attachments/assets/b86ebac0-e26e-4051-bb60-d8c6e1c7c14c)
+![anarcoin-dextools-banner]
 
  Collectivity Funding utopia... Fund Raiser to build an AnarCrypt-EcO-SuBsysteme environment destined to replace state and goverment givent Power to the People...
  The goal is to fund a system allowing teaching propaganda and voting breif... An Anarco-Collectivist Ecosystem that will one day replace state and government.
