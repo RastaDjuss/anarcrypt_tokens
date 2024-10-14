@@ -1,6 +1,6 @@
 ![anarcoin]
 
-# anarcoin 
+# anarcoin 2.0 
 
 ![anarcoin-dextools-banner](https://github.com/RastaDjuss/anarcoin/blob/6059132c4eb170a4a6f9c40f2802f8fb7a37af11/anarcoin-dextools-banner.gif)
 
