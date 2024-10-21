@@ -1,1 +1,0 @@
-/Users/justinlanouette/anarcrypt-eco-subsystem/anarcrypt-blockchain/tokens/AnArKi-token/target/debug/anarki-token: /Users/justinlanouette/anarcrypt-eco-subsystem/anarcrypt-blockchain/tokens/AnArKi-token/src/main.rs

@@ -80,4 +80,4 @@
       "value": "https://github.com/RastaDjuss/anarcoin"
     }
     ]
-}
+
