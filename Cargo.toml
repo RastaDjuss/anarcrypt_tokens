@@ -3,8 +3,15 @@ name = "anarki-token"
 version = "0.1.0"
 edition = "2021"
 
+[workspace]
+members = ["khaos-token"]
+
 [dependencies]
 solana-sdk = "=1.18.26"
 solana-client = "=1.18.26"
 spl-token = { version = "=4.0.0", features = ["no-entrypoint"] }
 spl-associated-token-account = "=2.3.0"
+
+[[bin]]
+name = "khaos_token"
+path = "src/main.rs"  # Ensure src/main.rs exists
