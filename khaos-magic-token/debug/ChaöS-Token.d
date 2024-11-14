@@ -1,1 +1,0 @@
-/Users/justinlanouette/anarcrypt-eco-subsystem/anarcrypt-blockchain/tokens/ChaöS-Token/target/debug/ChaöS-Token: /Users/justinlanouette/anarcrypt-eco-subsystem/anarcrypt-blockchain/tokens/ChaöS-Token/src/main.rs
