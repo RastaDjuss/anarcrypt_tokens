@@ -1,0 +1,114 @@
+{
+    "name": "AnarCoin 2.0",
+    "symbol": "AnArKi",
+    "description": "AnarCrypt Eco Sub System Project continues its idealistic mission to empower the community through blockchain technology. Join the AnarCoin Collective in our efforts for liberation from economic dictatorship and to reclaim power for the people! Together, we strive for equality and unity.",
+    "image": "https://media.githubusercontent.com/media/RastaDjuss/anarcoin-2.0/refs/heads/main/anarki.png",
+    "uri": "https://raw.githubusercontent.com/RastaDjuss/anarcoin-2.0/refs/heads/main/metadata.json",
+    "external_url": "https://Tattoocalypso.com/anarcoin",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://media.githubusercontent.com/media/RastaDjuss/anarcoin-2.0/refs/heads/main/anarki.png",
+          "type": "image/png"
+        }
+      ]
+    },
+    "extensions": {
+      "links": [
+        {
+          "trait_type": "AnArKi Whitepaper",
+          "value": "https://raw.githubusercontent.com/RastaDjuss/anarcoin-2.0/refs/heads/main/whitepaper.md"
+        },
+        {
+          "trait_type": "Raydium Swap & Buy",
+          "value": "https://bit.ly/swap-anarki"
+        },
+        {
+          "trait_type": "Raydium AnArKi Liquidity Pools",
+          "value": "https://bit.ly/anarki-usdt-liquidity-pool"
+        },
+        {
+          "trait_type": "Social Media",
+          "value": [
+            {
+              "platform": "All Links Bitly Linktree",
+              "url": "https://bit.ly/m/anarcoin-collective"
+            },
+            {
+              "platform": "Telegram",
+              "url": "https://t.me/+vPLi3pot4X0zMjMx"
+            },
+            {
+              "platform": "X.com",
+              "url": "https://x.com/AnarcoinCollect"
+            },
+            {
+              "platform": "AnarCrypt Discord Server",
+              "url": "https://discord.gg/Dt7zvuFPGf"
+            },
+            {
+              "platform": "Facebook",
+              "url": "https://www.facebook.com/profile.php?id=61564984054846"
+            },
+            {
+              "platform": "GitHub Repository",
+              "url": "https://github.com/RastaDjuss/anarcrypt-eco-subsystem.git"
+            }
+          ]
+        }
+      ]
+    },
+    "analytics": [
+      {
+        "trait_type": "Solscan",
+        "value": "https://solscan.io/token/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo"
+      },
+      {
+        "trait_type": "Jupiter",
+        "value": "https://jup.ag/swap/anarki"
+      },
+      {
+        "trait_type": "DexTools",
+        "value": "https://www.dextools.io/app/en/solana/pair-explorer/2CDZZZP7Fz1obMVUfhwE8aJHWNRdmaMG3NNSAj9PAbSq?t=1728797950724"
+      },
+      {
+        "trait_type": "DexScreener",
+        "value": "https://dexscreener.com/solana/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo"
+      },
+      {
+        "trait_type": "GeckoTerminal",
+        "value": "https://www.geckoterminal.com/solana/pools/2CDZZZP7Fz1obMVUfhwE8aJHWNRdmaMG3NNSAj9PAbSq"
+      },
+      {
+        "trait_type": "CoinGecko",
+        "value": "https://www.coingecko.com/en/coins/anarcoin2.0"
+      },
+      {
+        "trait_type": "CoinMarketCap",
+        "value": "https://coinmarketcap.com/currencies/anarcoin2.0"
+      },
+      {
+        "trait_type": "Birdeye",
+        "value": "https://birdeye.so/token/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo?chain=solana"
+      }
+    ],
+    "license": "MIT",
+    "tags": [
+      "crypto",
+      "decentralized",
+      "community",
+      "blockchain",
+      "solana",
+      "anarki",
+      "anark",
+      "anarcoin collective",
+      "anarcoin",
+      "community Driven",
+      "anarchy",
+      "anarchism",
+      "raydium",
+      "anarcoin 2.0",
+      "cryptocurrency",
+      "revolution"
+    ]
+  }
