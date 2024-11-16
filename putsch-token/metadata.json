@@ -8,7 +8,7 @@
     "properties": {
       "files": [
         {
-          "uri": "https://media.githubusercontent.com/media/RastaDjuss/anarcoin-2.0/refs/heads/main/anarki.png",
+          "uri": "https://copper-hidden-moth-883.mypinata.cloud/ipfs/QmWW5dWUQeMVZ8c6URKCYb4kuAXRMs26yMc8gQnc4wPWzG?pinataGatewayToken=q0iufGb74wJIkVwYrVE28fmFjyTLVyXmyFGXkqd56sjcVa3RdV9sEEw1GBtRsv4E",
           "type": "image/png"
         }
       ]
@@ -17,7 +17,7 @@
       "links": [
         {
           "trait_type": "AnArKi Whitepaper",
-          "value": "https://raw.githubusercontent.com/RastaDjuss/anarcoin-2.0/refs/heads/main/whitepaper.md"
+          "value": "https://raw.githubusercontent.com/RastaDjuss/anarcrypt-tokens/refs/heads/main/putsch-token/whitepaper.md"
         },
         {
           "trait_type": "Raydium Swap & Buy",
@@ -61,7 +61,7 @@
     "analytics": [
       {
         "trait_type": "Solscan",
-        "value": "https://solscan.io/token/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo"
+        "value": "https://solscan.io/token/3tMijTENGc94cPuARTeTL4EGXSRugigfrUmR18YFMCRD"
       },
       {
         "trait_type": "Jupiter",
@@ -73,7 +73,7 @@
       },
       {
         "trait_type": "DexScreener",
-        "value": "https://dexscreener.com/solana/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo"
+        "value": "https://dexscreener.com/solana/3tMijTENGc94cPuARTeTL4EGXSRugigfrUmR18YFMCRD"
       },
       {
         "trait_type": "GeckoTerminal",
@@ -89,7 +89,7 @@
       },
       {
         "trait_type": "Birdeye",
-        "value": "https://birdeye.so/token/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo?chain=solana"
+        "value": "https://birdeye.so/token/3tMijTENGc94cPuARTeTL4EGXSRugigfrUmR18YFMCRD"
       }
     ],
     "license": "MIT",
