@@ -1,9 +1,9 @@
 ![AnArKi Token](https://raw.githubusercontent.com/RastaDjuss/anarcoin-2.0/bc0cab788f42d164215c6fcbd78b24ae1cb47f26/anarcoin-dextools-banner.gif)
 
-# AnarCoin 2.0 or AnArKi Token Whitepaper
+# AnarCoin 3.0 or PUTSCH Token Whitepaper
 
 ## Abstract
-**AnArKi Token (symbol: ANAR)** is a decentralized utility token built on the Solana blockchain designed to facilitate transactions within a growing ecosystem focused on decentralized finance (DeFi), NFTs, staking, and ecosystem growth. This token integrates advanced features such as transaction fees, governance mechanisms, and staking rewards to enhance utility, scalability, and user engagement.
+**AnAcoin 3.0 Token (symbol: PUTSCH)** is a decentralized utility token built on the Solana blockchain designed to facilitate transactions within a growing ecosystem focused on decentralized finance (DeFi), NFTs, staking, and ecosystem growth. This token integrates advanced features such as transaction fees, governance mechanisms, and staking rewards to enhance utility, scalability, and user engagement.
 
 ### 1. Introduction
 The emergence of blockchain technology has transformed how value is transferred and stored, enabling decentralized financial systems and applications. AnArKi Token seeks to build on this innovation by creating a versatile token with a focus on financial inclusion, transparent governance, and cross-platform utility. AnArKi Token is a Solana-based token, allowing for low-cost, high-speed transactions while enabling decentralized applications (dApps) to integrate its functionality seamlessly.
