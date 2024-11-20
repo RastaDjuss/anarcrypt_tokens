@@ -61,35 +61,35 @@
     "analytics": [
       {
         "trait_type": "Solscan",
-        "value": "https://solscan.io/token/3tMijTENGc94cPuARTeTL4EGXSRugigfrUmR18YFMCRD"
+        "value": "https://solscan.io/token/mntGv42N18Uu53tTj5dta65F3zSuj1AJpEb7obNx45Q"
       },
       {
         "trait_type": "Jupiter",
-        "value": "https://jup.ag/swap/anarki"
+        "value": "https://jup.ag/swap/putsch"
       },
       {
         "trait_type": "DexTools",
-        "value": "https://www.dextools.io/app/en/solana/pair-explorer/2CDZZZP7Fz1obMVUfhwE8aJHWNRdmaMG3NNSAj9PAbSq?t=1728797950724"
+        "value": "https://www.dextools.io/app/en/solana/pair-explorer/mntGv42N18Uu53tTj5dta65F3zSuj1AJpEb7obNx45Q?t=1732056618321"
       },
       {
         "trait_type": "DexScreener",
-        "value": "https://dexscreener.com/solana/3tMijTENGc94cPuARTeTL4EGXSRugigfrUmR18YFMCRD"
+        "value": "https://dexscreener.com/solana/mntGv42N18Uu53tTj5dta65F3zSuj1AJpEb7obNx45Q"
       },
       {
         "trait_type": "GeckoTerminal",
-        "value": "https://www.geckoterminal.com/solana/pools/2CDZZZP7Fz1obMVUfhwE8aJHWNRdmaMG3NNSAj9PAbSq"
+        "value": "https://www.geckoterminal.com/solana/tokens/mntGv42N18Uu53tTj5dta65F3zSuj1AJpEb7obNx45Q"
       },
       {
         "trait_type": "CoinGecko",
-        "value": "https://www.coingecko.com/en/coins/anarcoin2.0"
+        "value": "https://www.coingecko.com/en/coins/anarcoin 3.0"
       },
       {
         "trait_type": "CoinMarketCap",
-        "value": "https://coinmarketcap.com/currencies/anarcoin2.0"
+        "value": "https://coinmarketcap.com/currencies/anarcoin 3.0"
       },
       {
         "trait_type": "Birdeye",
-        "value": "https://birdeye.so/token/3tMijTENGc94cPuARTeTL4EGXSRugigfrUmR18YFMCRD"
+        "value": "https://birdeye.so/token/mntGv42N18Uu53tTj5dta65F3zSuj1AJpEb7obNx45Q?chain=solana"
       }
     ],
     "license": "MIT",
