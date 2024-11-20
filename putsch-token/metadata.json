@@ -65,7 +65,7 @@
       },
       {
         "trait_type": "Jupiter",
-        "value": "https://jup.ag/swap/putsch"
+        "value": "https://jup.ag/swap/mntGv42N18Uu53tTj5dta65F3zSuj1AJpEb7obNx45Q-SOL"
       },
       {
         "trait_type": "DexTools",
@@ -79,13 +79,13 @@
         "trait_type": "GeckoTerminal",
         "value": "https://www.geckoterminal.com/solana/tokens/mntGv42N18Uu53tTj5dta65F3zSuj1AJpEb7obNx45Q"
       },
-      {
-        "trait_type": "CoinGecko",
-        "value": "https://www.coingecko.com/en/coins/anarcoin 3.0"
+          {
+        "trait_type": "Ape.pro",
+        "value": "https://ape.pro/solana/mntGv42N18Uu53tTj5dta65F3zSuj1AJpEb7obNx45Q"
       },
       {
         "trait_type": "CoinMarketCap",
-        "value": "https://coinmarketcap.com/currencies/anarcoin 3.0"
+        "value": "https://coinmarketcap.com/dexscan/solana/EPbtYJBWZyh8MhBnPP4g1nfDdkzf8GxHmu8XqDG7KE5K/"
       },
       {
         "trait_type": "Birdeye",
