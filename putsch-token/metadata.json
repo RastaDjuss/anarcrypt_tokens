@@ -16,16 +16,16 @@
     "extensions": {
       "links": [
         {
-          "trait_type": "AnArKi Whitepaper",
+          "trait_type": "AnarCoin 3.0 Whitepaper",
           "value": "https://raw.githubusercontent.com/RastaDjuss/anarcrypt-tokens/refs/heads/main/putsch-token/whitepaper.md"
         },
         {
           "trait_type": "Raydium Swap & Buy",
-          "value": "https://bit.ly/swap-anarki"
+          "value": "https://raydium.io/swap/?inputMint=sol&outputMint=mntGv42N18Uu53tTj5dta65F3zSuj1AJpEb7obNx45Q"
         },
         {
-          "trait_type": "Raydium AnArKi Liquidity Pools",
-          "value": "https://bit.ly/anarki-usdt-liquidity-pool"
+          "trait_type": "Raydium PUTSCH Liquidity Pools",
+          "value": "https://raydium.io/liquidity-pools/?token=mntGv42N18Uu53tTj5dta65F3zSuj1AJpEb7obNx45Q"
         },
         {
           "trait_type": "Social Media",
@@ -109,6 +109,7 @@
       "raydium",
       "anarcoin 2.0",
       "cryptocurrency",
-      "revolution"
+      "revolution",
+        "putsch"
     ]
   }
