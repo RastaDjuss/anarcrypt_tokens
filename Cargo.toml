@@ -4,7 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-agave = "0.1.0"
 solana-cli = "2.1.0"
 solana-test-validator = "2.1.0"
 solana-tokens = "2.1.0"
