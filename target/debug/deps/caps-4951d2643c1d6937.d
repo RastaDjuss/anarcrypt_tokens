@@ -1,0 +1,12 @@
+/home/anarchsun/dev/anarcrypt_tokens/target/debug/deps/libcaps-4951d2643c1d6937.rmeta: /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/lib.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/errors.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/runtime.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/securebits.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/ambient.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/base.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/bounding.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/nr.rs
+
+/home/anarchsun/dev/anarcrypt_tokens/target/debug/deps/caps-4951d2643c1d6937.d: /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/lib.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/errors.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/runtime.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/securebits.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/ambient.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/base.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/bounding.rs /home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/nr.rs
+
+/home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/lib.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/errors.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/runtime.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/securebits.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/ambient.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/base.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/bounding.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/caps-0.5.5/src/nr.rs:
