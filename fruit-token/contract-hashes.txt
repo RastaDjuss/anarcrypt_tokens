@@ -1,0 +1,13 @@
+wrote keypair to: bosRkzvfiJAgjC333w3PD2A6j4gddjvpkUSi86GkZet
+
+
+Wrote keypair to mntdpvq6Bovv42oHzpXS8HSkRJi79eaYzUhRSbtmhwR.json
+
+
+Creating token mntdpvq6Bovv42oHzpXS8HSkRJi79eaYzUhRSbtmhwR under program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
+To initialize metadata inside the mint, please run `spl-token initialize-metadata mntdpvq6Bovv42oHzpXS8HSkRJi79eaYzUhRSbtmhwR <YOUR_TOKEN_NAME> <YOUR_TOKEN_SYMBOL> <YOUR_TOKEN_URI>`, and sign with the mint authority.
+
+Address:  mntdpvq6Bovv42oHzpXS8HSkRJi79eaYzUhRSbtmhwR
+Decimals:  9
+
+Signature: 5ypicuHnjRnwFnNStdcpJhVLphjJe78uDyTGYSd52zyzCUCHxJE965DYkPSHGxDtmLb8LDPPFYH1q5zzhDEDrCJW
