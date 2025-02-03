@@ -1,0 +1,12 @@
+/home/anarchsun/devs/anarcrypt_tokens/target/debug/deps/libtar-2e481938035ef27c.rmeta: /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/lib.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/archive.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/builder.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/entry.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/entry_type.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/error.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/header.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/pax.rs
+
+/home/anarchsun/devs/anarcrypt_tokens/target/debug/deps/tar-2e481938035ef27c.d: /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/lib.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/archive.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/builder.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/entry.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/entry_type.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/error.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/header.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/pax.rs
+
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/lib.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/archive.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/builder.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/entry.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/entry_type.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/error.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/header.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tar-0.4.43/src/pax.rs:

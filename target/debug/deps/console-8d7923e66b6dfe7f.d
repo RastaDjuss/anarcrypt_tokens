@@ -1,0 +1,11 @@
+/home/anarchsun/devs/anarcrypt_tokens/target/debug/deps/libconsole-8d7923e66b6dfe7f.rmeta: /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/lib.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/common_term.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/kb.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/term.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/unix_term.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/utils.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/ansi.rs
+
+/home/anarchsun/devs/anarcrypt_tokens/target/debug/deps/console-8d7923e66b6dfe7f.d: /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/lib.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/common_term.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/kb.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/term.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/unix_term.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/utils.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/ansi.rs
+
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/lib.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/common_term.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/kb.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/term.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/unix_term.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/utils.rs:
+/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.15.10/src/ansi.rs:
