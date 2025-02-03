@@ -30,24 +30,48 @@ Signature: 3Lypr9LfTTfhp123ChrmdWqL1W6EpvWZEmbctxBudAdzi896fhd1Qe7gaVbkzuWCE3qZB
 
 ### Initiate-metadata:
 
-spl-token initialize-metadata  mntcUgKXrU11YirTRfZDkhGUkNcs7FSNLpp5S99FF9u 'Fruits Premium Internacional' 'FPI' https://raw.githubusercontent.com/RastaDjuss/anarcrypt_tokens/refs/heads/main/fruit-token/metadata.json
+spl-token initialize-metadata mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F 'FruitCoin' 'FRC' https://raw.githubusercontent.com/RastaDjuss/anarcrypt_tokens/refs/heads/main/fruit-token/metadata.json
 
-Signature: 4mmq37pJao5gpTQPHJTAeMT1qxypT3464wwh92cjJ8qCi4cqktgxLSUqPDmruNr6FWQKW5yXstGLSkRparSCfQpg
+Signature: z5vGvtRgYrorAj311bVGv6GH1MpJ1dyUCttrnUJdzGAv7HdXcueF9FCQhi9syUZEkgLR3cAHvsN6thDeadbzkfR
 
 ### Created account:
 
-spl-token create-account  mntcUgKXrU11YirTRfZDkhGUkNcs7FSNLpp5S99FF9u
-Creating account 5eC63d92xQXhP8HhS7CPHHu3pNJueKE9Mt6VZwDh3Pc7
+spl-token create-account mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F
+Creating account Da3t7YLEHQyhTsmD5vT7p2VZrdFsKFFHbpwtSbmi7PAM
 
-Signature: 1x2WJmfdAkMd2Qgs6qLfZYnU2xzCfM5VB52YnKMiY26KBy8qK1M1wet8hpAuvmn61iKPFw7mcj9W4vkdoYQSETH
+Signature: 38H2DfF9Lf2Lfw1Y7Yb7dy1NiYM3k8tGLtfHNn3Atg8aZfn4WC4Z4Shnrsb23M4eSALEnmRAna2DW6ZEXHAydHEF
 
 ### Minted Tokens:
 
-pl-token mint mntcUgKXrU11YirTRfZDkhGUkNcs7FSNLpp5S99FF9u  35000000
-Minting 35000000 tokens
-Token: mntcUgKXrU11YirTRfZDkhGUkNcs7FSNLpp5S99FF9u
-Recipient: 5eC63d92xQXhP8HhS7CPHHu3pNJueKE9Mt6VZwDh3Pc7
+spl-token mint mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F 31000666
+Minting 31000666 tokens
+Token: mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F
+Recipient: Da3t7YLEHQyhTsmD5vT7p2VZrdFsKFFHbpwtSbmi7PAM
 
-Signature: 2Mrxy4ZYo8ir46sJqdaUQDS3xVJ3fVPxGqGPKt4gpAQMuTrFEStCkdwTPZmQRrXw216VeGpexQdssEw9ooi3Tp1c
+Signature: 2vajgwDYEeR95dQ5gtaZphxJaY3VkXHPm8k7s7GVcG1jJdKsdWGdFaCEneEHSyw3mWQX2qu192QfzNv5CNksdpJy
 
-### 
+###  Revoke Mint authority...
+
+spl-token authorize mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F  mint --disable
+Updating mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F
+Current mint: bosRkzvfiJAgjC333w3PD2A6j4gddjvpkUSi86GkZet
+New mint: disabled
+
+Signature: 4cVuFgJ6UKVTWzSZdW5ijrgDSerp1ZnDUPBRNYDHHKFMXV1PytsLQcUZ39isFH1kXVmKxnKFaQPQNaqZrYRtjHWr
+
+### Revoke Freeze authority...
+
+can't...
+
+## Transfer to Oswald:
+
+spl-token transfer  mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F 30000666 BLXBdAWkLs9xcDxVKtYmFkkARoM2MtyWoEtuVg1Y3HR1  --fund-recipient --allow-unfunded-recipient
+Transfer 30000666 tokens
+Sender: Da3t7YLEHQyhTsmD5vT7p2VZrdFsKFFHbpwtSbmi7PAM
+Recipient: BLXBdAWkLs9xcDxVKtYmFkkARoM2MtyWoEtuVg1Y3HR1
+Recipient associated token account: 3UvWfkw4hRyGubQg4WyW7yJoCwKkmYYpMsz8umKJsGn9
+Funding recipient: 3UvWfkw4hRyGubQg4WyW7yJoCwKkmYYpMsz8umKJsGn9
+
+Signature: 4ajMpDD16Ycq4N54SwW1FsRpSdZk6NXsJ134w6fJ1RJyjAb4kZypM7cR5F2hgpB7LRnufTPMFBRmnFbeHeX8iLoT
+
+#### The End Buena navidad millionairo!!
