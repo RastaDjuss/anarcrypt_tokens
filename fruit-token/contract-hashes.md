@@ -1,31 +1,30 @@
 # Billeterias Boss y Mnt:
 
 ## El Boss wallet (con autoridad de creator)
-Wrote keypair to bos8CvLn56dYd9kaFgLc4ynYmaoj9Ye1ztkcXwuEHPS.json
+Wrote keypair to bosNRevwS7EmuYhj4ZUXD3MCwX3MDyY9ffXSnaGcsBV.json
 
-Wallet address: bos8CvLn56dYd9kaFgLc4ynYmaoj9Ye1ztkcXwuEHPS
+Wallet address: bosNRevwS7EmuYhj4ZUXD3MCwX3MDyY9ffXSnaGcsBV
 
 ## El Mnt (Mint Token Address):
 
-rote keypair to  mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F.json
+Wrote keypair to mnt7gddNvnAzLfNk3u4MSB887hyzeak3DVnH519wbTc.json
 
 
 
 ## Token Mint Address on the Blockchainm:
 
-mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F
+mnt7gddNvnAzLfNk3u4MSB887hyzeak3DVnH519wbTc
 
 ### Contractos y signaturas del token:
 
-spl-token create-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb --enable-metadata mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F.json
+spl-token create-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb --enable-metadata  mnt7gddNvnAzLfNk3u4MSB887hyzeak3DVnH519wbTc.json
+Creating token mnt7gddNvnAzLfNk3u4MSB887hyzeak3DVnH519wbTc under program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
+To initialize metadata inside the mint, please run `spl-token initialize-metadata mnt7gddNvnAzLfNk3u4MSB887hyzeak3DVnH519wbTc <YOUR_TOKEN_NAME> <YOUR_TOKEN_SYMBOL> <YOUR_TOKEN_URI>`, and sign with the mint authority.
 
-Creating token mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F under program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
-To initialize metadata inside the mint, please run `spl-token initialize-metadata mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F <YOUR_TOKEN_NAME> <YOUR_TOKEN_SYMBOL> <YOUR_TOKEN_URI>`, and sign with the mint authority.
-
-Address:  mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F
+Address:  mnt7gddNvnAzLfNk3u4MSB887hyzeak3DVnH519wbTc
 Decimals:  9
 
-Signature: 3Lypr9LfTTfhp123ChrmdWqL1W6EpvWZEmbctxBudAdzi896fhd1Qe7gaVbkzuWCE3qZBVv3c2f4sJMtcfNh38Ei
+Signature: krtyWmYrB9Kk2HPoRth2cR5cNHaKRopxUvQv3EAjvrVfifDxp5bjVmXCYqGhJh2xHAmEoHv4L9DLP95t3o2eBY6
 
 
 ### Initiate-metadata:
@@ -73,5 +72,15 @@ Recipient associated token account: 3UvWfkw4hRyGubQg4WyW7yJoCwKkmYYpMsz8umKJsGn9
 Funding recipient: 3UvWfkw4hRyGubQg4WyW7yJoCwKkmYYpMsz8umKJsGn9
 
 Signature: 4ajMpDD16Ycq4N54SwW1FsRpSdZk6NXsJ134w6fJ1RJyjAb4kZypM7cR5F2hgpB7LRnufTPMFBRmnFbeHeX8iLoT
+ y un million para Justin El KREATOR!!
+
+spl-token transfer mntHrgyAEQLcfqbDXg4pb33twCdw9M7eajFS6WJSH7F  1000000 AbonnfiKsnovfQUEeBX3U57BdDiESGi2UEFXw2X711cY  --fund-recipient --allow-unfunded-recipient
+Transfer 1000000 tokens
+Sender: Da3t7YLEHQyhTsmD5vT7p2VZrdFsKFFHbpwtSbmi7PAM
+Recipient: AbonnfiKsnovfQUEeBX3U57BdDiESGi2UEFXw2X711cY
+Recipient associated token account: 7jk4Ea7NZ8bJcLWYgJFAYMvAJf11vSnLhiJNGFTwuiwr
+Funding recipient: 7jk4Ea7NZ8bJcLWYgJFAYMvAJf11vSnLhiJNGFTwuiwr
+
+Signature: qfuxiRue8gBdepvVTQk2GhZAemdzJMuzEQAMU5EYJZMPScouKJarexQKw5ZPDReYVCQ22t5LiYvXWh3qjP1THik
 
 #### The End Buena navidad millionairo!!
