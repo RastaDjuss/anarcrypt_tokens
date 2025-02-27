@@ -1,90 +1,89 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Explore the R=3.57 Token Whitepaper: A blockchain-based initiative leveraging Solana for decentralized governance, liquidity pools, NFTs, and staking with a focus on community engagement.">
-    <meta name="author" content="R=3.57 Team">
-    <title>R=3.57 Putsch Token Whitepaper</title>
-    <link rel="stylesheet" href="../styles/style.css"> <!-- Corrected CSS path -->
-    <link rel="icon" href="../media/favicon.ico" type="image/x-icon"> <!-- Favicon included -->
-</head>
-<body>
-    <div class="main-content">
-        <h1>R=3.57 Putsch Token Whitepaper</h1>
+# R=3.57 Putsch Token Whitepaper
 
-        <!-- Banner Image with Enhanced Alt Text -->
-        <img src="https://raw.githubusercontent.com/RastaDjuss/anarcoin-2.0/bc0cab788f42d164215c6fcbd78b24ae1cb47f26/anarcoin-dextools-banner.gif" 
-             alt="R=3.57 Token Banner highlighting its support for the DeFi and NFT ecosystem on Solana blockchain">
-        
-        <!-- Abstract Section -->
-        <h2>Abstract</h2>
-        <p><strong>R=3.57 Token</strong> (formerly known as <strong>AnarCoin 2.0</strong>) is a decentralized utility token built on the Solana blockchain. This token aims to streamline transactions within a growing ecosystem focused on decentralized finance (DeFi), NFTs, staking, and community growth. It incorporates advanced features such as transaction fees, governance mechanisms, and staking rewards to enhance user engagement and project adoption.</p>
+![Chaos Image](media/Chaos.png)
 
-        <!-- Introduction Section -->
-        <h2>1. Introduction</h2>
-        <p>Since the rise of blockchain technology, decentralized solutions for value transfer have transformed numerous financial sectors. The **R=3.57 Token** seeks to build upon these innovations by offering solutions like financial inclusion and transparent governance.</p>
+![R=3.57 Token Banner](https://raw.githubusercontent.com/RastaDjuss/anarcoin-2.0/bc0cab788f42d164215c6fcbd78b24ae1cb47f26/anarcoin-dextools-banner.gif)
 
-        <h3>Main Objectives:</h3>
-        <ul>
-            <li><strong>Low Transaction Costs:</strong> Leveraging the scalability and performance offered by the Solana blockchain.</li>
-            <li><strong>Governance Model:</strong> Enabling token holders to participate in strategic project decisions.</li>
-            <li><strong>Rewards & Staking:</strong> Incentivizing long-term holders with staking mechanisms for greater value accrual.</li>
-        </ul>
+## Abstract
 
-        <!-- Token Overview -->
-        <h2>2. R=3.57 Overview</h2>
-        <h3>Token Details:</h3>
-        <ul>
-            <li><strong>Name:</strong> R=3.57</li>
-            <li><strong>Symbol:</strong> R=3.57</li>
-            <li><strong>Blockchain:</strong> Solana</li>
-            <li><strong>Standard:</strong> SPL Token</li>
-            <li><strong>Total Supply:</strong> 13,000,000,666 R=3.57</li>
-            <li><strong>Decimal Units:</strong> 9</li>
-        </ul>
+**R=3.57 Token** (anciennement connu sous le nom **AnarCoin 2.0**) est un token utilitaire décentralisé basé sur la blockchain Solana. Ce token vise à simplifier les transactions au sein d'un écosystème en pleine croissance, focalisé sur la finance décentralisée (DeFi), les NFT, le staking, et l'engagement communautaire. Il intègre des fonctionnalités avancées comme les frais de transaction, des mécanismes de gouvernance, et des récompenses de staking pour améliorer l'adoption et l'interaction des utilisateurs.
 
-        <!-- Problem Statement -->
-        <h2>3. Problem Statement</h2>
-        <p>Many existing tokens face challenges such as slow transaction speeds, high fees, or inadequate decentralized governance. Leveraging Solana's blockchain technology, the **R=3.57 Token** solves these issues by offering a fast, low-cost, and community-driven architecture.</p>
+---
 
-        <!-- Roadmap -->
-        <h2>4. Roadmap</h2>
-        <p>To see the full development plan and upcoming milestones for the **R=3.57 ecosystem**, refer to the following document:</p>
-        <p><a href="https://ipfs.io/ipfs/QmPPrkiEqJtUygk63Zehe7ZNJxpdWQE35GqCEyyRmVGLtb" target="_blank" rel="noopener noreferrer">Download the Full Whitepaper</a></p>
+## 1. Introduction
 
-        <!-- Important Links -->
-        <h2>5. Important Links</h2>
-        <p>Explore crucial resources and platforms associated with R=3.57:</p>
-        <ul>
-            <li><a href="https://bit.ly/swap-anarki" target="_blank" rel="noopener noreferrer">Buy on Raydium</a></li>
-            <li><a href="https://bit.ly/anarki-usdt-liquidity-pool" target="_blank" rel="noopener noreferrer">Contribute to Liquidity Pools</a></li>
-            <li><a href="https://bit.ly/m/anarcoin-collective" target="_blank" rel="noopener noreferrer">Community Linktree</a></li>
-        </ul>
+Depuis l’essor de la blockchain, les solutions décentralisées pour le transfert de valeur ont transformé de nombreux secteurs financiers. Le **R=3.57 Token** ambitionne de s’appuyer sur ces innovations en proposant des solutions comme l’inclusion financière et une gouvernance transparente.
 
-        <!-- Wallet Information -->
-        <h2>6. Wallet Information</h2>
-        <p>Complete wallet information is available here: <a href="https://ipfs.io/ipfs/QmeNZATejPbnzAa7crKvop4b4JB8qQ3oDwjzQbkrGo9WVv" target="_blank" rel="noopener noreferrer">Access Wallet Details</a></p>
+### **Objectifs principaux :**
+- **Faibles coûts de transaction :** Exploitant la scalabilité et la performance offertes par la blockchain Solana.
+- **Modèle de gouvernance :** Permettre aux détenteurs de tokens de participer aux décisions stratégiques du projet.
+- **Récompenses et staking :** Offrir des mécanismes de staking pour inciter à une détention à long terme.
 
-        <!-- Community Channels -->
-        <h2>7. Community</h2>
-        <p>Connect with our community on these platforms:</p>
-        <ul>
-            <li><a href="https://x.com/AnarcoinCollect" target="_blank" rel="noopener noreferrer">Twitter/X</a></li>
-            <li><a href="https://discord.gg/Dt7zvuFPGf" target="_blank" rel="noopener noreferrer">Join our Discord</a></li>
-            <li><a href="https://www.facebook.com/profile.php?id=61564984054846" target="_blank" rel="noopener noreferrer">Facebook Page</a></li>
-        </ul>
+---
 
-        <!-- Conclusion -->
-        <h2>8. Conclusion</h2>
-        <p>The **R=3.57 Token** aims to be a key player in the Solana ecosystem, promoting decentralized governance and reduced transactional costs. With a robust strategy and community-driven commitments, it aspires to deliver long-term sustainable value.</p>
+## 2. R=3.57 Overview
 
-        <!-- Additional Resources -->
-        <h2>Additional Resources</h2>
-        <p>Access dynamic content via IPFS: <a href="https://ipfs.io/anarcrypt/QmNs3YEJ6PfC2MTtp2XMVtdGkocwaUSSDpbcciXnG8Jrmf/ipns/k51qzi5uqu5dlh5ngugpizc7rwgtb7p5ekcwgvncqvid13qo5r2w4zd3p65ufx" target="_blank" rel="noopener noreferrer">Dynamic IPNS Content</a></p>
+### **Détails du Token :**
+- **Nom :** R=3.57
+- **Symbole :** R=3.57
+- **Blockchain :** Solana
+- **Norme :** SPL Token
+- **Offre Totale :** 13,000,000,666 R=3.57
+- **Unités Décimales :** 9
 
-        <!-- Footer -->
-        <h2>The End</h2>
-    </div>
-</body>
-</html>
+---
+
+## 3. Problem Statement
+
+Les tokens existants rencontrent des problèmes tels que la lenteur des transactions, des frais élevés, ou une gouvernance décentralisée inadéquate. En s’appuyant sur la technologie de la blockchain Solana, le **R=3.57 Token** résout ces problèmes grâce à une architecture rapide, peu coûteuse, et axée sur la communauté.
+
+---
+
+## 4. Roadmap
+
+Pour voir le plan de développement complet et les prochaines étapes du **R=3.57 Token**, consultez le document suivant :
+
+[📄 Télécharger le Livre Blanc Complet](https://ipfs.io/ipfs/QmPPrkiEqJtUygk63Zehe7ZNJxpdWQE35GqCEyyRmVGLtb)
+
+---
+
+## 5. Important Links
+
+Découvrez des ressources et des plateformes cruciales associées à R=3.57 :
+
+- [Acheter sur Raydium 🚀](https://bit.ly/swap-anarki)
+- [Contribuer aux Pools de Liquidité 💧](https://bit.ly/anarki-usdt-liquidity-pool)
+- [Lien vers la Communauté 🎯](https://bit.ly/m/anarcoin-collective)
+
+---
+
+## 6. Wallet Information
+
+L’information complète sur les portefeuilles est disponible ici : [📱 Accéder aux Détails du Portefeuille](https://ipfs.io/ipfs/QmeNZATejPbnzAa7crKvop4b4JB8qQ3oDwjzQbkrGo9WVv)
+
+---
+
+## 7. Community
+
+Rejoignez notre communauté sur ces plateformes :
+
+- [Twitter/X](https://x.com/AnarcoinCollect)
+- [Discord](https://discord.gg/Dt7zvuFPGf)
+- [Page Facebook](https://www.facebook.com/profile.php?id=61564984054846)
+
+---
+
+## 8. Conclusion
+
+Le **R=3.57 Token** aspire à devenir un acteur clé de l’écosystème Solana, en promouvant une gouvernance décentralisée et une réduction des coûts transactionnels. Avec une stratégie robuste et un engagement communautaire, il ambitionne de fournir une valeur durable à long terme.
+
+---
+
+## Additional Resources
+
+Accéder au contenu dynamique via IPFS :  
+[💡 Contenu Dynamique IPNS](https://ipfs.io/anarcrypt/QmNs3YEJ6PfC2MTtp2XMVtdGkocwaUSSDpbcciXnG8Jrmf/ipns/k51qzi5uqu5dlh5ngugpizc7rwgtb7p5ekcwgvncqvid13qo5r2w4zd3p65ufx)
+
+---
+
+## The End
