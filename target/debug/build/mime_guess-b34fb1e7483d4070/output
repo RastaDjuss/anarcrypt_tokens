@@ -1,1 +1,0 @@
-cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/anarchsun/devs/anarcrypt_tokens/target/debug/build/mime_guess-b34fb1e7483d4070/out/mime_types_generated.rs

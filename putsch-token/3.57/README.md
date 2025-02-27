@@ -1,151 +1,90 @@
-# AnarCoin 3.0, the PUTSCH Token for Revolution! 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore the R=3.57 Token Whitepaper: A blockchain-based initiative leveraging Solana for decentralized governance, liquidity pools, NFTs, and staking with a focus on community engagement.">
+    <meta name="author" content="R=3.57 Team">
+    <title>R=3.57 Putsch Token Whitepaper</title>
+    <link rel="stylesheet" href="../styles/style.css"> <!-- Corrected CSS path -->
+    <link rel="icon" href="../media/favicon.ico" type="image/x-icon"> <!-- Favicon included -->
+</head>
+<body>
+    <div class="main-content">
+        <h1>R=3.57 Putsch Token Whitepaper</h1>
 
-![anarcoin-dextools-banner](https://raw.githubusercontent.com/RastaDjuss/anarcoin-2.0/6059132c4eb170a4a6f9c40f2802f8fb7a37af11/anarcoin-dextools-banner.gif)
-
- AnarCrypt Eco Sub System Project: the AnarkChain, continues with its idealistic and Utopic Idealism to Build a Community: the AnarCoin Collective Behind the Social Enveronment and Social Media onchain Platform desinged to provide the Necessairy in Order to Take the Power Back and give to the people using BlockChain Tchnology to teach finance Consult Vote and Run State From The Bottom Up!
- 
- # Du KüDeT'Ä   A Crypto Revolution! 
- 
- Germinal Subversion of Teachig Propaganda in order to be Self-Sufficient and Self-Managed: Autracie! Come amnd Joine Us In our Resistant Effort In Social Collaborative and collective Act of Liberation from this Economical Dictature And Bene-Dikction That leads to The Cross and to Hell... The Great Swindle! This Mutyiny is nfor Equality and Unity... 
- 
-# If The Kids are United They WSill Never Be Divided! 
- 
- ## Time to Command anmd Conquer Comrads! I Want To Conquer the World... Surprise surprise... We ArE BacK !,,! 
- 
- After our AnArCo-Genesis Sabotaged by Evil Parasitical narcissistic harassing wise liars, fooling around in promotorland... A fake radium suport imposter with a wallet hack that made 456 000 000 AnArk Tokens dissapear from thin air! And the swindle continues... This infection is terrible! Deaf Zombies and Rats in this plagued and scam infested crypto Dimention where they feed from innocent Naïvety that emmerges From the outside world, curious and cute loving, Seeking and Roaming in Crepto NFT land prospecting for My Precious GeMinytis Homo-Corruptum Gollum... J'aime Gems Mon Précieux... Well Anyway, Since I had Been pretty Much the Only One Suporting Market Cap and liquidity Pools, I Expropriated them and emptied nthe pools... Thats why everithing crashed, Zomby SubHuman Rats Addicted to their precious cute and Shiny Root Of All Evil. Their Illness A Bulimic Crypto-Gemynitis Narcissus Contagious Human Greed and a Will of Steal! My Precious... Already they probably have friendly leach Brothers That Profit With The Majority Of Burglars on our DoughNut! A Guild that will adopt the loot and make it grow. Something very hard to acheive a Place in shiny bites Webland of Blocks. All their is is mother fucking too Sweet Icing to stick in and fall Down the Hole All Screwed Up By the contagion ruling  in the Icing of Ruin... Very Hard  to get to thne Cake that  you want. A Ratty lying Coalition of Ass Holes Prevent Most Ignorants to Thrive in Here and learn. Shall We Start? 
- 
-# Hey Ho! LetsGo! --AnarCoin Collective - 
-
-## Dü KüDetH-Ä Global Anarko Putsh Overturn a collective act of Crypto Liberation.
-
-![anarchy](https://github.com/RastaDjuss/anarcoin/blob/0a8e6853457d779d1cb928996778a339f23f0d67/AnArKi.gif?raw=true)
-
-Just run from root of repository:
-
-## install rust
-
-$ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
-$ rustc --version
-$ echo %PATH
-$ rustup update
-$ rustup install nightly
-$ cargo +nightly bench
-
-## install solana-cli:
-
-$ sh -c "$(curl -sSfL https://release.solana.com/LATEST_RELEASE/install)"
-
-## install dependecies
-
-$ cargo build
-$ cargo test
-
-## With Rust use:
-
-cargo add <dependecies>, cargo install <packages> cargo clean for cleaning cache and cargo --help for command list & flags... etc..,
-
-## Build and Test
-
-$ cargo build
-$ cargo test
-
-#  spl-token account-info 
-
-## Token Address: mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo
-
-# SPL Token Account
-  Token account: 25VpXmqGxGFznLQ1pE5YTPfhB8igw7wZ8bDoQk3cqKto
-  Address: 35aBdQtiK9EqAmntYrg2jCV86Qh3YkQYjQeL9PGHg1B7
-  Program: TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
-  Balance: 0
-  Decimals: 9
-  Mint: mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo
-  Owner: 25VpXmqGxGFznLQ1pE5YTPfhB8igw7wZ8bDoQk3cqKto
-  State: Initialized
-  Delegation: (not set)
-  Close authority: (not set)
-
-## Extensions:
-
-  Immutable owner
-
-##      Links: 
-       
-###    AnArKi Whitepaper:
-
-        https://raw.githubusercontent.com/RastaDjuss/anarcoin-2.0/refs/heads/main/whitepaper.md
-
-### Raydium Swap & Buy:
-
-       Https://bit.ly/swap-anarki
+        <!-- Banner Image with Enhanced Alt Text -->
+        <img src="https://raw.githubusercontent.com/RastaDjuss/anarcoin-2.0/bc0cab788f42d164215c6fcbd78b24ae1cb47f26/anarcoin-dextools-banner.gif" 
+             alt="R=3.57 Token Banner highlighting its support for the DeFi and NFT ecosystem on Solana blockchain">
         
-###  Raydium AnArKi Liquidity Pools:
+        <!-- Abstract Section -->
+        <h2>Abstract</h2>
+        <p><strong>R=3.57 Token</strong> (formerly known as <strong>AnarCoin 2.0</strong>) is a decentralized utility token built on the Solana blockchain. This token aims to streamline transactions within a growing ecosystem focused on decentralized finance (DeFi), NFTs, staking, and community growth. It incorporates advanced features such as transaction fees, governance mechanisms, and staking rewards to enhance user engagement and project adoption.</p>
 
-      Https://bit.ly/anarki-usdt-liquidity-pool
+        <!-- Introduction Section -->
+        <h2>1. Introduction</h2>
+        <p>Since the rise of blockchain technology, decentralized solutions for value transfer have transformed numerous financial sectors. The **R=3.57 Token** seeks to build upon these innovations by offering solutions like financial inclusion and transparent governance.</p>
 
-#    Links:
+        <h3>Main Objectives:</h3>
+        <ul>
+            <li><strong>Low Transaction Costs:</strong> Leveraging the scalability and performance offered by the Solana blockchain.</li>
+            <li><strong>Governance Model:</strong> Enabling token holders to participate in strategic project decisions.</li>
+            <li><strong>Rewards & Staking:</strong> Incentivizing long-term holders with staking mechanisms for greater value accrual.</li>
+        </ul>
 
-## All Links Bitly Linktree:
+        <!-- Token Overview -->
+        <h2>2. R=3.57 Overview</h2>
+        <h3>Token Details:</h3>
+        <ul>
+            <li><strong>Name:</strong> R=3.57</li>
+            <li><strong>Symbol:</strong> R=3.57</li>
+            <li><strong>Blockchain:</strong> Solana</li>
+            <li><strong>Standard:</strong> SPL Token</li>
+            <li><strong>Total Supply:</strong> 13,000,000,666 R=3.57</li>
+            <li><strong>Decimal Units:</strong> 9</li>
+        </ul>
 
-            Https://bit.ly/m/anarcoin-collective
-           
-#  Social Media Platforms: 
+        <!-- Problem Statement -->
+        <h2>3. Problem Statement</h2>
+        <p>Many existing tokens face challenges such as slow transaction speeds, high fees, or inadequate decentralized governance. Leveraging Solana's blockchain technology, the **R=3.57 Token** solves these issues by offering a fast, low-cost, and community-driven architecture.</p>
 
-## Twitter or X.com: 
+        <!-- Roadmap -->
+        <h2>4. Roadmap</h2>
+        <p>To see the full development plan and upcoming milestones for the **R=3.57 ecosystem**, refer to the following document:</p>
+        <p><a href="https://ipfs.io/ipfs/QmPPrkiEqJtUygk63Zehe7ZNJxpdWQE35GqCEyyRmVGLtb" target="_blank" rel="noopener noreferrer">Download the Full Whitepaper</a></p>
 
-            https://x.com/AnarcoinCollect
-         
-## AnarCrypt Discord Server:
+        <!-- Important Links -->
+        <h2>5. Important Links</h2>
+        <p>Explore crucial resources and platforms associated with R=3.57:</p>
+        <ul>
+            <li><a href="https://bit.ly/swap-anarki" target="_blank" rel="noopener noreferrer">Buy on Raydium</a></li>
+            <li><a href="https://bit.ly/anarki-usdt-liquidity-pool" target="_blank" rel="noopener noreferrer">Contribute to Liquidity Pools</a></li>
+            <li><a href="https://bit.ly/m/anarcoin-collective" target="_blank" rel="noopener noreferrer">Community Linktree</a></li>
+        </ul>
 
-             https://discord.gg/Dt7zvuFPGf
-         
-## Facebook:
+        <!-- Wallet Information -->
+        <h2>6. Wallet Information</h2>
+        <p>Complete wallet information is available here: <a href="https://ipfs.io/ipfs/QmeNZATejPbnzAa7crKvop4b4JB8qQ3oDwjzQbkrGo9WVv" target="_blank" rel="noopener noreferrer">Access Wallet Details</a></p>
 
-             Https://www.facebook.com/profile.php?id=61564984054846
-            
-## GitHub Repository:
-     
-             Https://github.com/RastaDjuss/anarcrypt-eco-subsystem.git
-   
-# Analytics": 
+        <!-- Community Channels -->
+        <h2>7. Community</h2>
+        <p>Connect with our community on these platforms:</p>
+        <ul>
+            <li><a href="https://x.com/AnarcoinCollect" target="_blank" rel="noopener noreferrer">Twitter/X</a></li>
+            <li><a href="https://discord.gg/Dt7zvuFPGf" target="_blank" rel="noopener noreferrer">Join our Discord</a></li>
+            <li><a href="https://www.facebook.com/profile.php?id=61564984054846" target="_blank" rel="noopener noreferrer">Facebook Page</a></li>
+        </ul>
 
-## Solscan:
+        <!-- Conclusion -->
+        <h2>8. Conclusion</h2>
+        <p>The **R=3.57 Token** aims to be a key player in the Solana ecosystem, promoting decentralized governance and reduced transactional costs. With a robust strategy and community-driven commitments, it aspires to deliver long-term sustainable value.</p>
 
-              Https://solscan.io/token/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo
-   
-## Jupiter:
+        <!-- Additional Resources -->
+        <h2>Additional Resources</h2>
+        <p>Access dynamic content via IPFS: <a href="https://ipfs.io/anarcrypt/QmNs3YEJ6PfC2MTtp2XMVtdGkocwaUSSDpbcciXnG8Jrmf/ipns/k51qzi5uqu5dlh5ngugpizc7rwgtb7p5ekcwgvncqvid13qo5r2w4zd3p65ufx" target="_blank" rel="noopener noreferrer">Dynamic IPNS Content</a></p>
 
-              Https://jup.ag/swap/anarki
-
-## DexTools:
-
-               Https://www.dextools.io/app/en/solana/pair-explorer/2CDZZZP7Fz1obMVUfhwE8aJHWNRdmaMG3NNSAj9PAbSq?t=1728797950724
-
-## DexScreener:
-
-                Https://dexscreener.com/solana/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo
-
-## GeckoTerminal:
-
-                 Htps://www.geckoterminal.com/solana/pools/2CDZZZP7Fz1obMVUfhwE8aJHWNRdmaMG3NNSAj9PAbSq
-
-## CoinGecko:
-
-                 Https://www.coingecko.com/en/coins/anarcoin2.0
-                
-## CoinMarketCap:
-
-                 Https://coinmarketcap.com/currencies/anarcoin2.0
-
-## Birdeye:
-                 Https://birdeye.so/token/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo?chain=solana
-                
-## CoinMarketCap:                 
-
-                  Https://coinmarketcap.com/currencies/anarcoin2.0
-
-## Birdeye:
-
-                  Https://birdeye.so/token/mntHxFGwcodW3R3ovBfqu13VSdmagfTc3tZQRWJpSVo?chain=solana
-
-# The End!
+        <!-- Footer -->
+        <h2>The End</h2>
+    </div>
+</body>
+</html>

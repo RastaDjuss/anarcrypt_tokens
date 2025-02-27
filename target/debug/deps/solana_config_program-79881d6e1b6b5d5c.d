@@ -1,8 +1,0 @@
-/home/anarchsun/devs/anarcrypt_tokens/target/debug/deps/libsolana_config_program-79881d6e1b6b5d5c.rmeta: /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-2.1.7/src/lib.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-2.1.7/src/config_instruction.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-2.1.7/src/config_processor.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-2.1.7/src/date_instruction.rs
-
-/home/anarchsun/devs/anarcrypt_tokens/target/debug/deps/solana_config_program-79881d6e1b6b5d5c.d: /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-2.1.7/src/lib.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-2.1.7/src/config_instruction.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-2.1.7/src/config_processor.rs /home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-2.1.7/src/date_instruction.rs
-
-/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-2.1.7/src/lib.rs:
-/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-2.1.7/src/config_instruction.rs:
-/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-2.1.7/src/config_processor.rs:
-/home/anarchsun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-2.1.7/src/date_instruction.rs:
