@@ -79,11 +79,4 @@ Le **R=3.57 Token** aspire à devenir un acteur clé de l’écosystème Solana,
 
 ---
 
-## Additional Resources
-
-Accéder au contenu dynamique via IPFS :  
-[💡 Contenu Dynamique IPNS]([[[[[[https://ipfs.io/anarcrypt/QmNs3YEJ6PfC2MTtp2XMVtdGkocwaUSSDpbcciXnG8Jrmf/ipns/k51qzi5uqu5dlh5ngugpizc7rwgtb7p5ekcwgvncqvid13qo5r2w4zd3p65ufx](https://ipfs.io/ipns/k51qzi5uqu5dickc9ii0w03oqjt6fj0pvz8stzg7fityydmya0i7oc87waawcq](https://ipfs.io/ipns/k51qzi5uqu5dickc9ii0w03oqjt6fj0pvz8stzg7fityydmya0i7oc87waawcq)](https://ipfs.io/ipns/k51qzi5uqu5dickc9ii0w03oqjt6fj0pvz8stzg7fityydmya0i7oc87waawcq](https://ipfs.io/ipns/QmUiSW2ZxweafhvkP8U8qSHKgoRN1KuiY6ziutK1ebY6Jq)](https://ipfs.io/ipns/k51qzi5uqu5dickc9ii0w03oqjt6fj0pvz8stzg7fityydmya0i7oc87waawcq))))](https://ipfs.io/ipns/QmSFKKcqZJMvZopmNX82GAsDcX5F46DFugkseN8CcxZcJe)}
-
----
-
 ## The End
