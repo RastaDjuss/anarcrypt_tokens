@@ -51,8 +51,8 @@ Pour voir le plan de développement complet et les prochaines étapes du **R=3.5
 
 Découvrez des ressources et des plateformes cruciales associées à R=3.57 :
 
-- [Acheter sur Raydium 🚀](https://bit.ly/swap-anarki)
-- [Contribuer aux Pools de Liquidité 💧](https://bit.ly/anarki-usdt-liquidity-pool)
+- [Acheter sur Raydium 🚀]([https://bit.ly/swap-anarki](https://bit.ly/swap-R-357))
+- [Contribuer aux Pools de Liquidité 💧](https://bit.ly/R-357-pools)
 - [Lien vers la Communauté 🎯](https://bit.ly/m/anarcoin-collective)
 
 ---
@@ -82,7 +82,7 @@ Le **R=3.57 Token** aspire à devenir un acteur clé de l’écosystème Solana,
 ## Additional Resources
 
 Accéder au contenu dynamique via IPFS :  
-[💡 Contenu Dynamique IPNS](https://ipfs.io/anarcrypt/QmNs3YEJ6PfC2MTtp2XMVtdGkocwaUSSDpbcciXnG8Jrmf/ipns/k51qzi5uqu5dlh5ngugpizc7rwgtb7p5ekcwgvncqvid13qo5r2w4zd3p65ufx)
+[💡 Contenu Dynamique IPNS]([https://ipfs.io/anarcrypt/QmNs3YEJ6PfC2MTtp2XMVtdGkocwaUSSDpbcciXnG8Jrmf/ipns/k51qzi5uqu5dlh5ngugpizc7rwgtb7p5ekcwgvncqvid13qo5r2w4zd3p65ufx)](https://ipfs.io/ipns/k51qzi5uqu5dickc9ii0w03oqjt6fj0pvz8stzg7fityydmya0i7oc87waawcq)}
 
 ---
 
