@@ -1,15 +1,112 @@
 {
-    "name": "R=3.57 Chaös Putsch Token",
-    "symbol": "R=3.57",
-    "description": "AnarCrypt Eco Sub System Project is a Governance realms DAO token run by a community-driven council, making decisions on token usage and distribution. What are you waiting for? Spread the word, take command, and conquer! Continuing its idealistic mission to empower the community through blockchain technology, the AnarCoin Collective strives for liberation from economic dictatorship and reclaiming power for the people. Together, we aim for equality and unity. R=3.57 Token is a community-driven project with Governance DAO: The AnarCoin Collective Putsch DASO on Realms, granting voting influence and decision approval power. Holding or supplying liquidity allows you to become an official council member and a collective social worker for the Revolution.",
-    "image": "https://raw.githubusercontent.com/RastaDjuss/anarcrypt-tokens/refs/heads/main/putsch-token/3.57/media/Chaos.png?token=GHSAT0AAAAAAC5XOUI72DECWL4URAFW4SGMZ6CWHNQ",
-    "properties": {
-        "files": [
-            {
-                "uri": "https://raw.githubusercontent.com/RastaDjuss/anarcrypt-tokens/refs/heads/main/putsch-token/3.57/media/Chaos.png?token=GHSAT0AAAAAAC5XOUI72DECWL4URAFW4SGMZ6CWHNQ",
-                "type": "image/png"
-            }
-        ],
-        "category": "image"
+  "name": "Chaotic Putsch Fractal Attractor",
+  "symbol": "r=3.57",
+  "description": "Aujourd'hui, cette route est appelée | cascade de doublements de période | pour décrire la transition entre un comportement périodique et un attracteur chaotique. Ce scénario est observé par exemple avec la suite logistique, qui est définie par récurrence par une application du segment [0, 1] dans lui-même : x n + 1   =   r x n   ( 1 − x n ) {\displaystyle x_{n+1}\ =\ r\,x_{n}\ (1-x_{n})} où n = 0, 1, … dénote le temps discret, x l'unique variable dynamique, et 0 ≤ r ≤ 4 {\displaystyle 0\leq r\leq 4} un paramètre31. La dynamique de cette application présente un comportement très différent selon la valeur du paramètre r {\displaystyle r} : Pour 0 ≤ r < 3 {\displaystyle 0\leq r<3}, le système possède un point fixe attractif, qui devient instable lorsque r = 3 {\displaystyle r=3}. Pour 3 ≤ r < 3 , 57 ⋯ < {\displaystyle 3\leq r<3{,}57\dots <}, l'application possède un attracteur qui est une orbite périodique, de période 2 n {\displaystyle 2^{n}} où n est un entier qui tend vers l'infini lorsque r {\displaystyle r} tend vers 3,57… Lorsque r = 3 , 57 ⋯ < {\displaystyle r=3{,}57\dots <}, l'application possède un attracteur chaotique fractal découvert par le biologiste May (1976)32. Le cas r = 4 {\displaystyle r=4} avait été étudié dès 1947 par Ulam et von Neumann33. À noter qu'on peut dans ce cas précis établir l'expression exacte de la mesure invariante ergodique34. Lorsque le paramètre r augmente, on obtient donc une succession de bifurcations entre les comportements périodiques et le chaos, résumée sur la figure ci-contre. AnarCrypt Eco Sub System Project is a Governance realms DAO token run by a community-driven council, making decisions on token usage and distribution. What are you waiting for? Spread the word, take command, and conquer! Continuing its idealistic mission to empower the community through blockchain technology, the AnarCoin Collective strives for liberation from economic dictatorship and reclaiming power for the people. Together, we aim for equality and unity. R=3.57 Token is a community-driven project with Governance DAO: The AnarCoin Collective Putsch DASO on Realms, granting voting influence and decision approval power. Holding or supplying liquidity allows you to become an official council member and a collective social worker for the Revolution.",
+  "image": "https://raw.githubusercontent.com/RastaDjuss/anarcrypt-tokens/refs/heads/main/putsch-token/3.57/media/Chaos.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/RastaDjuss/anarcrypt-tokens/refs/heads/main/putsch-token/3.57/media/Chaos.png?token=GHSAT0AAAAAAC5XOUI72DECWL4URAFW4SGMZ6CWHNQ",
+        "type": "image/png"
+      }
+    ],
+    "category": "Website",
+    "external_url": "https://Tattoocalypso.com/anarcoin"
+  },
+  "extensions": {
+    "links": [
+      {
+        "trait_type": "Chaotic Putsch Fractal Attractor Whitepaper",
+        "value": "https://raw.githubusercontent.com/RastaDjuss/anarcrypt-tokens/refs/heads/main/putsch-token/3.57/pages/R=3.57-whitepapers/whitepaper.md"
+      },
+      {
+        "trait_type": "Raydium Swap & Buy",
+        "value": "https://raydium.io/swap/?inputMint=sol&outputMint=mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA"
+      },
+      {
+        "trait_type": "Raydium Chaotic Putsch Fractal Attractor Liquidity Pools",
+        "value": "https://raydium.io/liquidity-pools/?token=mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA"
+      },
+      {
+        "trait_type": "Social Media",
+        "value": [
+          {
+            "platform": "All Links Bitly Linktree",
+            "url": "https://bit.ly/m/anarcoin-collective"
+          },
+          {
+            "platform": "Telegram",
+            "url": "https://t.me/+vPLi3pot4X0zMjMx"
+          },
+          {
+            "platform": "X.com",
+            "url": "https://x.com/AnarcoinCollect"
+          },
+          {
+            "platform": "AnarCrypt Discord Server",
+            "url": "https://discord.gg/Dt7zvuFPGf"
+          },
+          {
+            "platform": "Facebook",
+            "url": "https://www.facebook.com/profile.php?id=61564984054846"
+          }
+        ]
+      }
+    ]
+  },
+  "analytics": [
+    {
+      "trait_type": "Solscan",
+      "value": "https://solscan.io/token/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA"
+    },
+    {
+      "trait_type": "Jupiter",
+      "value": "https://jup.ag/swap/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA-SOL"
+    },
+    {
+      "trait_type": "DexTools",
+      "value": "https://www.dextools.io/app/en/solana/pair-explorer/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA=1732056618321"
+    },
+    {
+      "trait_type": "DexScreener",
+      "value": "https://dexscreener.com/solana/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA"
+    },
+    {
+      "trait_type": "GeckoTerminal",
+      "value": "https://www.geckoterminal.com/solana/tokens/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA"
+    },
+    {
+      "trait_type": "Ape.pro",
+      "value": "https://ape.pro/solana/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA"
+    },
+    {
+      "trait_type": "Birdeye",
+      "value": "https://birdeye.so/token/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA?chain=solana"
     }
+  ],
+  "license": "MIT",
+  "tags": [
+    "crypto",
+    "decentralized",
+    "community",
+    "blockchain",
+    "solana",
+    "anarki",
+    "anark",
+    "anarcoin collective",
+    "anarcoin",
+    "community Driven",
+    "anarchy",
+    "anarchism",
+    "raydium",
+    "anarcoin 2.0",
+    "cryptocurrency",
+    "revolution",
+    "putsch",
+      "fractal"
+    "chaos",
+    "r-357",
+    "r=3.57",
+    "anarcoin"
+  ]
 }
