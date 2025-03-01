@@ -1,0 +1,112 @@
+{
+  "name": "Chaotic Putsch Fractal Attractor",
+  "symbol": "r=3.57",
+  "description": "Aujourd'hui, cette route est appelée | cascade de doublements de période | pour décrire la transition entre un comportement périodique et un attracteur chaotique. Ce scénario est observé par exemple avec la suite logistique, qui est définie par récurrence par une application du segment [0, 1] dans lui-même : x(n+1) = r x(n) (1 − x(n)) où n = 0, 1, … dénote le temps discret, x l'unique variable dynamique, et 0 ≤ r ≤ 4 un paramètre. Lorsque r = 3,57, l'application possède un attracteur chaotique fractal découvert par le biologiste May (1976). Le cas r = 4 avait été étudié dès 1947 par Ulam et von Neumann. Lorsque le paramètre r augmente, on obtient donc une succession de bifurcations entre les comportements périodiques et le chaos. R=3.57 Token est un projet communautaire avec DAO : AnarCoin Collective Putsch DASO, offrant influence et pouvoir d'approbation des décisions. Être détenteur ou fournir de la liquidité vous permet de devenir membre officiel du conseil.",
+  "image": "https://raw.githubusercontent.com/RastaDjuss/anarcrypt-tokens/refs/heads/main/putsch-token/3.57/media/chaos.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/RastaDjuss/anarcrypt-tokens/refs/heads/main/putsch-token/3.57/media/chaos.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "Website",
+    "external_url": "https://Tattoocalypso.com/anarcoin"
+  },
+  "extensions": {
+    "links": [
+      {
+        "trait_type": "Chaotic Putsch Fractal Attractor Whitepaper",
+        "value": "https://raw.githubusercontent.com/RastaDjuss/anarcrypt-tokens/refs/heads/main/putsch-token/3.57/pages/R=3.57-whitepapers/whitepaper.md"
+      },
+      {
+        "trait_type": "Raydium Swap & Buy",
+        "value": "https://raydium.io/swap/?inputMint=sol&outputMint=mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA"
+      },
+      {
+        "trait_type": "Raydium Chaotic Putsch Fractal Attractor Liquidity Pools",
+        "value": "https://raydium.io/liquidity-pools/?token=mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA"
+      },
+      {
+        "trait_type": "Social Media",
+        "value": [
+          {
+            "platform": "All Links Bitly Linktree",
+            "url": "https://bit.ly/m/anarcoin-collective"
+          },
+          {
+            "platform": "Telegram",
+            "url": "https://t.me/+vPLi3pot4X0zMjMx"
+          },
+          {
+            "platform": "X.com",
+            "url": "https://x.com/AnarcoinCollect"
+          },
+          {
+            "platform": "AnarCrypt Discord Server",
+            "url": "https://discord.gg/Dt7zvuFPGf"
+          },
+          {
+            "platform": "Facebook",
+            "url": "https://www.facebook.com/profile.php?id=61564984054846"
+          }
+        ]
+      }
+    ]
+  },
+  "analytics": [
+    {
+      "trait_type": "Solscan",
+      "value": "https://solscan.io/token/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA"
+    },
+    {
+      "trait_type": "Jupiter",
+      "value": "https://jup.ag/swap/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA-SOL"
+    },
+    {
+      "trait_type": "DexTools",
+      "value": "https://www.dextools.io/app/en/solana/pair-explorer/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA=1732056618321"
+    },
+    {
+      "trait_type": "DexScreener",
+      "value": "https://dexscreener.com/solana/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA"
+    },
+    {
+      "trait_type": "GeckoTerminal",
+      "value": "https://www.geckoterminal.com/solana/tokens/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA"
+    },
+    {
+      "trait_type": "Ape.pro",
+      "value": "https://ape.pro/solana/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA"
+    },
+    {
+      "trait_type": "Birdeye",
+      "value": "https://birdeye.so/token/mntTRcNQsBdyoPAYyCSA6863KBr9J9X8kxgsyB8UwcA?chain=solana"
+    }
+  ],
+  "license": "MIT",
+  "tags": [
+    "crypto",
+    "decentralized",
+    "community",
+    "blockchain",
+    "solana",
+    "anarki",
+    "anark",
+    "anarcoin collective",
+    "anarcoin",
+    "community Driven",
+    "anarchy",
+    "anarchism",
+    "raydium",
+    "anarcoin 2.0",
+    "cryptocurrency",
+    "revolution",
+    "putsch",
+    "fractal",
+    "chaos",
+    "r-357",
+    "r=3.57",
+    "anarcoin"
+  ]
+}
