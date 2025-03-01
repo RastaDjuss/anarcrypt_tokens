@@ -2,11 +2,11 @@
   "name": "Chaotic Putsch Fractal Attractor",
   "symbol": "r=3.57",
   "description": "Aujourd'hui, cette route est appelée | cascade de doublements de période | pour décrire la transition entre un comportement périodique et un attracteur chaotique. Ce scénario est observé par exemple avec la suite logistique, qui est définie par récurrence par une application du segment [0, 1] dans lui-même : x(n+1) = r x(n) (1 − x(n)) où n = 0, 1, … dénote le temps discret, x l'unique variable dynamique, et 0 ≤ r ≤ 4 un paramètre. Lorsque r = 3,57, l'application possède un attracteur chaotique fractal découvert par le biologiste May (1976). Le cas r = 4 avait été étudié dès 1947 par Ulam et von Neumann. Lorsque le paramètre r augmente, on obtient donc une succession de bifurcations entre les comportements périodiques et le chaos. R=3.57 Token est un projet communautaire avec DAO : AnarCoin Collective Putsch DASO, offrant influence et pouvoir d'approbation des décisions. Être détenteur ou fournir de la liquidité vous permet de devenir membre officiel du conseil.",
-  "image": "https://raw.githubusercontent.com/RastaDjuss/anarcrypt-tokens/main/putsch-token/3.57/media/chaos.png",
+  "image": "  https://ipfs.io/ipfs/QmYJhV4LgdY6H7ovwTRLjyigbqtuDZNB36sb74e9pEPCKA?filename=chaos.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/RastaDjuss/anarcrypt-tokens/main/putsch-token/3.57/media/chaos.png",
+        "uri": "https://ipfs.io/ipfs/QmYJhV4LgdY6H7ovwTRLjyigbqtuDZNB36sb74e9pEPCKA?filename=chaos.png",
         "type": "image/png"
       }
     ],
