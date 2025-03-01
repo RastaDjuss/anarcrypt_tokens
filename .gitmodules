@@ -1,0 +1,3 @@
+[submodule "tokens/Chaotic-fractal/arweave-js"]
+	path = tokens/Chaotic-fractal/arweave-js
+	url = git@github.com:RastaDjuss/arweave-js.git
